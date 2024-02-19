@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div>
-    <p>🚀 Excitedly crafting the future with <a href="http://tad.peopletech.com">Tad Full Stack Web Application</a>. Currently working on tad.peopletech.com.</p>
+    <p>🚀 Currently working on <a href="http://tad.peopletech.com">Tad Full Stack Web Application</a>.</p>
     <p>🌱 Currently mastering ReactJs, exploring AWS, and conquering SpringBoot.</p>
     <p>💬 Let's talk about Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</p>
     <p>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</p>
