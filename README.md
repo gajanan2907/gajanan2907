@@ -5,23 +5,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajanan2907&label=Profile%20views&color=0e75b6&style=flat" alt="gajanan2907" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div>
-    <p>🚀 Currently working on <a href="http://tad.peopletech.com">Tad Full Stack Web Application</a>.</p>
-    <p>🌱 Currently mastering ReactJs, exploring AWS, and conquering SpringBoot.</p>
-    <p>💬 Let's talk about Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</p>
-    <p>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</p>
-   <p>💻 Proficient in:</p>
-<ul>
-    <li>Java</li>
-    <li>SpringBoot</li>
-    <li>JavaScript</li>
-    <li>React Js</li>
-    <li>MySQL</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
-    <p>📚 Currently learning and enhancing skills in ReactJs, AWS, and SpringBoot.</p>
+<div style="max-width: 800px; margin: 20px auto; padding: 0 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
+    <p style="font-size: 1.2em; margin-bottom: 10px;">🚀 Excitedly crafting the future with <a href="http://tad.peopletech.com" style="color: #3498db;">Tad Full Stack Web Application</a>. Currently working on tad.peopletech.com.</p>
+    <p style="font-size: 1.2em; margin-bottom: 10px;">🌱 Mastering ReactJs, exploring AWS, and conquering SpringBoot.</p>
+    <p style="font-size: 1.2em; margin-bottom: 10px;">💬 Let's discuss Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</p>
+    <p style="font-size: 1.2em; margin-bottom: 10px;">📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com" style="color: #3498db;">choudharygajanan2907@gmail.com</a>.</p>
+    <p style="font-size: 1.2em; margin-bottom: 10px;">💻 Full Stack Developer with expertise in:</p>
+    <ul style="list-style-type: none; padding: 0; margin: 0; margin-bottom: 10px;">
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">Java</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">SpringBoot</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">JavaScript</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">React Js</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">MySQL</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">HTML</li>
+        <li style="background-color: #3498db; color: #ecf0f1; border-radius: 5px; padding: 5px 10px; margin-bottom: 5px;">CSS</li>
+    </ul>
+    <p style="font-size: 1.2em; margin-bottom: 10px;">📚 Currently enhancing skills in ReactJs, AWS, and SpringBoot.</p>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
