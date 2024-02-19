@@ -5,9 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajanan2907&label=Profile%20views&color=0e75b6&style=flat" alt="gajanan2907" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p> 🔭 I’m currently working on https://tad.peopletech.com/</p>
-<p>🌱 I’m currently learning ** ReactJs,Aws,SpringBoot **</p> 
-
+<div>
+    <p>🚀 Excitedly crafting the future with <a href="http://tad.peopletech.com">Tad Full Stack Web Application</a>.</p>
+    <p>🌱 Currently on an exhilarating journey, mastering ReactJs, exploring AWS, and conquering SpringBoot.</p>
+    <p>💬 Dive into discussions on Java, Javascript, TypeScript, React, Spring-boot, and MySQL with me.</p>
+    <p>📫 Reach out and connect at <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</p>
+    <p>💻 A versatile Full Stack Developer fluent in Java, SpringBoot, JavaScript, React Js, MySQL, HTML, and CSS.</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iamgajanandchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamgajanandchoudhary/" height="30" width="40" /></a>
