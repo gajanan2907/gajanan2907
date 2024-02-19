@@ -10,7 +10,16 @@
     <p>🌱 Currently mastering ReactJs, exploring AWS, and conquering SpringBoot.</p>
     <p>💬 Let's talk about Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</p>
     <p>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</p>
-    <p>💻 Full Stack Developer skilled in Java, SpringBoot, JavaScript, React Js, MySQL, HTML, and CSS.</p>
+   <p>💻 Proficient in:</p>
+<ul>
+    <li>Java</li>
+    <li>SpringBoot</li>
+    <li>JavaScript</li>
+    <li>React Js</li>
+    <li>MySQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
     <p>📚 Currently learning and enhancing skills in ReactJs, AWS, and SpringBoot.</p>
 </div>
 
