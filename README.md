@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajanan2907&label=Profile%20views&color=0e75b6&style=flat" alt="gajanan2907" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on https://tad.peopletech.com/
-- 🌱 I’m currently learning **ReactJs,Aws**
+<p> 🔭 I’m currently working on https://tad.peopletech.com/</p>
+<p>🌱 I’m currently learning ** ReactJs,Aws,SpringBoot **</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
