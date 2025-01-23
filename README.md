@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <ul>
-    <li>🔭 Currently contributing to the development of the innovative <a href="http://tad.peopletech.com">TAD Full Stack Web Application</a></li>
+    <li>🔭 Currently contributing to the development of the innovative <a href=""> Full Stack Web Application</a></li>
     <li>🌱 Mastering ReactJs, exploring AWS, and conquering SpringBoot.</li>
     <li>💬 Let's discuss a wide array of technologies including Java, Javascript, TypeScript, React, Spring-boot, and MySQL.</li>
     <li>📫 Connect with me: <a href="mailto:choudharygajanan2907@gmail.com">choudharygajanan2907@gmail.com</a>.</li>
